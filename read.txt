@@ -1,7 +1,11 @@
 create new branch
 <<<<<<< HEAD
 creating a new branch is quick & simple.
-func2
+<<<<<<< HEAD
+func1
+=======
+func1
+>>>>>>> try
 =======
 creating a new branch is quick & simple.
 >>>>>>> feature1
