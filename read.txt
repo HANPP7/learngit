@@ -1,5 +1,1 @@
-how to use git.
-git is free software.
-12345
-abcdef
->>>>>
+create new branch
